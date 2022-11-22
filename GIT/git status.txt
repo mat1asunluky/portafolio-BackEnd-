@@ -1,0 +1,1 @@
+es un comando que permite conocer en qué estado se encuentran los archivos

@@ -1,0 +1,1 @@
+es el comando que se utiliza para enviar todas las confirmaciones registradas en el repositorio local a un repositorio remoto.
